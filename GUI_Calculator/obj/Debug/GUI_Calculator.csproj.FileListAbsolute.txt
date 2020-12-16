@@ -1,0 +1,10 @@
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\bin\Debug\GUI_Calculator.exe.config
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\bin\Debug\GUI_Calculator.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\bin\Debug\GUI_Calculator.pdb
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csprojAssemblyReference.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.Form1.resources
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.GenerateResource.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.exe
+C:\Users\Mohammad Navid\Desktop\CSE416 - C# Class Codes\GUI_Calculator\GUI_Calculator\obj\Debug\GUI_Calculator.pdb
